@@ -2,9 +2,9 @@
 title: Hanson
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "Hanson|Think Different"  
+description: "Sidgen|Think Different"  
 baseurl: ""
-url: "http://sidgen.github.io"  
+url: "https://sidgen.github.io"  
 
 # About/contact
 owner: 
@@ -49,11 +49,11 @@ defaults:
 
 # Comments 
 comments :
-  provider : duoshuo
+  provider : sidgen
   duoshuo :
-    short_name : hanson
+    short_name : sidgen
   disqus :
-      short_name : hanson
+      short_name : sidgen
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
